@@ -2,3 +2,4 @@ file
 az
 local
 push / pull
+gh
