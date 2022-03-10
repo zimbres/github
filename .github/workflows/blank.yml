@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: git-sync
-        uses: zimbres/git-sync@v1.0.8
+        uses: zimbres/git-sync@v1.0.9
         with:
           source_repo: "zimbres/github"
           source_branch: "main"
