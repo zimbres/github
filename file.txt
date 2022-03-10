@@ -1,3 +1,4 @@
 file
 az
 local
+push / pull
